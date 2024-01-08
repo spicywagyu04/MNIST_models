@@ -5,4 +5,5 @@ So no fancy convolutions ;D
 
 ## Models
 __MNIST_Model_v1:__ a very basic neural net with a single hidden linear layer
+
 __MNIST_Model_v2:__ model is same as __MNIST_Model_v1__, but with mixup
